@@ -1,4 +1,4 @@
-### Hi there, I'm Angie - aka [ItsAngieUwU] 👋
+### Hi there, I'm AJ - aka [Cattos] 👋
 
 ## I'm a student, youtuber, developer, writer & voice actor
 
@@ -13,22 +13,9 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [ Squid Game || Roblox ](https://youtu.be/3vPdQI7UEF4)
-- [Fallin' for 10 minutes straight](https://youtu.be/qB0srJ8yNt4)
-- [Art #Shorts](https://youtube.com/shorts/PS48GWunzwQ?feature=share)
-- [Legends of speed || Shorts](https://youtu.be/59aV_h_1ECs)
-- [Among us... but I rage.. a lot. ](https://youtu.be/brnh_herQ8k)
+- [ Comforting you at home | A4F ](https://youtu.be/Ko91C-8tMMA)
+- [Loneliness comfort | AFA](https://youtu.be/RMSo4qRVMks)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCmnYw7QJEngaFu84cgZP0IA)
 
----
-
-### 📕 Information n stuff
-
-<!-- BLOG-POST-LIST:START -->
-- [Github](https://github.com/ItsAngieUwU/)
-- [Twitter Updates](https://twitter.com/suwuangie)
-<!-- BLOG-POST-LIST:END -->
-
----
